@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-navs",
+  "repo": "CamShaft/bootstrap-navs",
+  "description": "Bootstrap Navigation Component",
+  "version": "2.2.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "APLv2",
+  "styles": [
+    "bootstrap-navs.css"
+  ]
+}
